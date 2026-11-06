@@ -1,4 +1,4 @@
-#Frictionless Design**
+#Frictionless Design
 
 `frictionless-design` is a portable design philosophy and AI agent skill for building tools that feel well-considered because their parts agree. Distilled from production systems tooling, it helps engineers and coding agents design, implement, and review interfaces, configuration state, build pipelines, and artifact workflows without introducing bookkeeping debt.
 
